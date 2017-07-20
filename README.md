@@ -1,6 +1,6 @@
-## docker-generatedata
+## docker-test
 
-This installs the standalone version of generatedata.com, using Docker.
+This installs the standalone version of generatedata.com, using Docker - v3.2.6 branch.
 
 ### Requirements
 
@@ -11,7 +11,7 @@ This installs the standalone version of generatedata.com, using Docker.
 
 - Clone this repository **recursively** and enter the directory
 ```bash
-git clone --recursive https://github.com/raderjuber/docker-generatedata.git generatedata && cd generatedata
+git clone --recursive https://github.com/raderjuber/docker-test.git generatedata && cd generatedata
 ```
 - Copy the settings.php file into the submodule :
 ```bash
